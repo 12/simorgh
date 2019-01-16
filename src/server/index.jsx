@@ -12,7 +12,7 @@ import path from 'path';
 import helmet from 'helmet';
 import gnuTP from 'gnu-terry-pratchett';
 import dotenv from 'dotenv';
-import routes, { articleRegexPath } from '../app/routes';
+import routes, { regexPath } from '../app/routes';
 import { getStyleTag } from './styles';
 import getAssetsArray from './assets';
 
@@ -30,7 +30,7 @@ const publicDirectory = process.env.SIMORGH_PUBLIC_DIR;
 const dataFolderToRender =
   process.env.NODE_ENV === 'production' ? 'data/prod' : 'data/test';
 
-const articleDataRegexPath = `${articleRegexPath}.json`;
+const dataRegexPath = `${regexPath}.json`;
 
 const server = express();
 server
@@ -44,15 +44,10 @@ server
     }),
   )
   .use(gnuTP())
-  .get(articleDataRegexPath, async ({ params }, res) => {
+  .get(dataRegexPath, async ({ params }, res) => {
     const { service, id } = params;
 
-    const dataFilePath = path.join(
-      dataFolderToRender,
-      service,
-      'articles',
-      `${id}.json`,
-    );
+    const dataFilePath = path.join(dataFolderToRender, service, `${id}.json`);
 
     fs.readFile(dataFilePath, (error, data) => {
       if (error) {

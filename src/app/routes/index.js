@@ -1,20 +1,21 @@
-import Article from '../containers/Article';
+import HelloWorld from '../containers/HelloWorld';
 import getInitialData from './getInitialData';
 import services from '../lib/config/services';
 
 const serviceRegex = Object.keys(services)
   .filter(serviceName => serviceName !== 'default')
   .join('|');
-const idRegex = 'c[a-zA-Z0-9]{10}o';
-const ampRegex = '.amp';
 
-export const articleRegexPath = `/:service(${serviceRegex})/articles/:id(${idRegex}):amp(${ampRegex})?`;
+/*
+ * This gets passed to universal-react-app which passes the regex on to react-router-config which seemingly doesn
+ */
+export const regexPath = `/:service(${serviceRegex})/:id?`;
 
 const routes = [
   {
-    path: articleRegexPath,
+    path: regexPath,
     exact: true,
-    component: Article,
+    component: HelloWorld,
     getInitialData,
   },
 ];
