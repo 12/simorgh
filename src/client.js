@@ -4,7 +4,12 @@ import 'babel-polyfill';
 import { hydrate } from 'react-dom';
 import { ClientApp } from 'react-universal-app';
 import * as OfflinePluginRuntime from 'offline-plugin/runtime';
-import routes from './app/routes';
+
+let routes = [];
+
+const setupClientRoutes = appRoutes => {
+  routes = appRoutes;
+};
 
 if (process.env.NODE_ENV === 'production') {
   OfflinePluginRuntime.install({
@@ -23,3 +28,5 @@ hydrate(<ClientApp data={data} routes={routes} />, root);
 if (module.hot) {
   module.hot.accept();
 }
+
+export default setupClientRoutes;

@@ -50,17 +50,18 @@ describe('Server', () => {
 
   describe('Data', () => {
     it('should respond with JSON', async () => {
-      const { body } = await makeRequest('/news/articles/c85pqyj5m2ko.json');
+      const { body } = await makeRequest('/news/helloWorld.json');
       expect(body).toEqual(
-        expect.objectContaining({ content: expect.any(Object) }),
+        expect.objectContaining({
+          subHeading: expect.any(String),
+          title: expect.any(String),
+        }),
       );
     });
 
     describe('with non-existent data', () => {
       it('should respond with a 404', async () => {
-        const { statusCode } = await makeRequest(
-          '/news/articles/cERROR00025o.json',
-        );
+        const { statusCode } = await makeRequest('/news/missingData.json');
         expect(statusCode).toEqual(404);
       });
     });
