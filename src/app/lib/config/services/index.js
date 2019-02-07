@@ -11,6 +11,7 @@ export default {
     brandName: 'Default Brand Name',
     imageCaptionOffscreenText: 'Default image caption prefix, ',
     imageCopyrightOffscreenText: 'Default image copyright text, ',
+    langAttr: 'de',
     service: 'default',
   },
   news,

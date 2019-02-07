@@ -5,6 +5,7 @@ const persian = {
   defaultImageAltText: 'BBC News فارسی',
   imageCaptionOffscreenText: ' ، عنوان تصویر',
   imageCopyrightOffscreenText: ' ، منبع تصویر',
+  langAttr: 'fa',
   locale: 'fa',
   service: 'persian',
   serviceName: 'Persian',

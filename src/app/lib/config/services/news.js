@@ -6,6 +6,7 @@ const news = {
   defaultImageAltText: 'BBC News',
   imageCaptionOffscreenText: 'Image caption, ',
   imageCopyrightOffscreenText: 'Image source, ',
+  langAttr: 'en-GB',
   locale: 'en_GB',
   service: 'news',
   serviceName: 'News',
