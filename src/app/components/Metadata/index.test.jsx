@@ -4,7 +4,6 @@ import { shouldShallowMatchSnapshot } from '../../helpers/tests/testHelpers';
 
 const metadataSnapshotTest = (
   testDescription,
-  isAmp,
   articleAuthor,
   articleSection,
   brandName,
@@ -14,7 +13,6 @@ const metadataSnapshotTest = (
   description,
   facebookAdmin,
   facebookAppID,
-  lang,
   locale,
   metaTags,
   timeLastPublished,
@@ -25,7 +23,6 @@ const metadataSnapshotTest = (
 ) =>
   describe(testDescription, () => {
     const metadataProps = {
-      isAmp,
       articleAuthor,
       articleSection,
       brandName,
@@ -35,7 +32,6 @@ const metadataSnapshotTest = (
       description,
       facebookAdmin,
       facebookAppID,
-      lang,
       locale,
       metaTags,
       timeLastPublished,
@@ -54,7 +50,6 @@ const metadataSnapshotTest = (
 describe('Metadata', () => {
   metadataSnapshotTest(
     'News article',
-    false,
     'BBC News',
     null,
     'BBC News',
@@ -64,7 +59,6 @@ describe('Metadata', () => {
     'This is a description',
     101010,
     202020,
-    'en-GB',
     'en_GB',
     ['tagA', 'tagB'],
     1539188371344,
@@ -76,7 +70,6 @@ describe('Metadata', () => {
 
   metadataSnapshotTest(
     'News AMP article',
-    true,
     'BBC News',
     null,
     'BBC News',
@@ -86,7 +79,6 @@ describe('Metadata', () => {
     'This is a description',
     101010,
     202020,
-    'en-GB',
     'en_GB',
     ['tagA', 'tagB'],
     1539188371344,
@@ -98,7 +90,6 @@ describe('Metadata', () => {
 
   metadataSnapshotTest(
     'Persian article',
-    false,
     'BBC News فارسی',
     null,
     'BBC News فارسی',
@@ -108,7 +99,6 @@ describe('Metadata', () => {
     'This is a description',
     101010,
     202020,
-    'fa',
     'fa',
     ['tagA', 'tagB'],
     1539188371344,
@@ -120,7 +110,6 @@ describe('Metadata', () => {
 
   metadataSnapshotTest(
     'Persian AMP article',
-    true,
     'BBC News فارسی',
     null,
     'BBC News فارسی',
@@ -130,7 +119,6 @@ describe('Metadata', () => {
     'This is a description',
     101010,
     202020,
-    'fa',
     'fa',
     ['tagA', 'tagB'],
     1539188371344,
@@ -142,7 +130,6 @@ describe('Metadata', () => {
 
   metadataSnapshotTest(
     'articleSection is not null',
-    false,
     'BBC News',
     'Politics',
     'BBC News',
@@ -152,7 +139,6 @@ describe('Metadata', () => {
     'This is a description',
     101010,
     202020,
-    'en-GB',
     'en_GB',
     ['tagA', 'tagB'],
     1539188371344,
