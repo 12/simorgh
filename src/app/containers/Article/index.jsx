@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 import { bool, string, shape } from 'prop-types';
 import styled from 'styled-components';
+import Helmet from 'react-helmet';
 import { C_OAT_LHT } from '@bbc/psammead-styles/colours';
 import MetadataContainer from '../Metadata';
 import HeaderContainer from '../Header';
@@ -10,7 +11,10 @@ import text from '../Text';
 import image from '../Image';
 import Blocks from '../Blocks';
 import articlePropTypes from '../../models/propTypes/article';
-import { ServiceContextProvider } from '../../contexts/ServiceContext';
+import {
+  ServiceContextProvider,
+  ServiceContextConsumer,
+} from '../../contexts/ServiceContext';
 import Timestamp from '../Timestamp';
 import {
   layoutGridWrapper,
@@ -76,6 +80,7 @@ const ArticleContainer = ({ loading, error, data }) => {
           <GlobalStyle />
           <ServiceContextProvider service={service}>
             <PlatformContextProvider platform={isAmp ? 'amp' : 'canonical'}>
+              {passAttributesToHtml(isAmp)}
               <HeaderContainer />
               <MetadataContainer
                 metadata={metadata}

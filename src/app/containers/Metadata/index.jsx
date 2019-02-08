@@ -1,10 +1,33 @@
 import React from 'react';
 import { string, shape } from 'prop-types';
+import Helmet from 'react-helmet';
 import { ServiceContextConsumer } from '../../contexts/ServiceContext';
 import { PlatformContextConsumer } from '../../contexts/PlatformContext';
 import Metadata from '../../components/Metadata';
 import metadataPropTypes from '../../models/propTypes/metadata';
 import promoPropTypes from '../../models/propTypes/promo';
+
+const passAttributesToHtml = isAmp => {
+  const htmlAttributes = {};
+
+  if (isAmp) {
+    htmlAttributes.amp = ''; // empty value as this makes Helmet render 'amp' as per https://www.ampproject.org/docs/fundamentals/spec#ampd
+  }
+
+  return (
+    <ServiceContextConsumer>
+      {({ dir, lang }) => (
+        <Helmet
+          htmlAttributes={{
+            ...htmlAttributes,
+            ...{ dir },
+            ...{ lang },
+          }}
+        />
+      )}
+    </ServiceContextConsumer>
+  );
+};
 
 /* An array of each thingLabel from tags.about & tags.mention */
 const allTags = tags => {
@@ -26,7 +49,7 @@ const MetadataContainer = ({ metadata, promo, service }) => {
   const canonicalLink = `https://www.bbc.com/${service}/articles/${id}`;
   const timeFirstPublished = new Date(metadata.firstPublished).toISOString();
   const timeLastPublished = new Date(metadata.lastPublished).toISOString();
-
+  const isAmp = platform => (platform === 'amp');
   return (
     <PlatformContextConsumer>
       {platform => (
@@ -40,8 +63,8 @@ const MetadataContainer = ({ metadata, promo, service }) => {
             twitterCreator,
             twitterSite,
           }) => (
+            {passAttributesToHtml(isAmp)}
             <Metadata
-              isAmp={platform === 'amp'}
               articleAuthor={articleAuthor}
               articleSection={metadata.passport.genre}
               brandName={brandName}

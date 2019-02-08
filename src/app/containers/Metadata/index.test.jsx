@@ -95,7 +95,6 @@ const metaTagsBuilder = (serviceConfig, description, seoTitle, id, things) => {
 
 const articleMetadataBuilder = (
   serviceName,
-  lang,
   title,
   description,
   id,
@@ -105,7 +104,6 @@ const articleMetadataBuilder = (
   const serviceConfig = services[serviceName];
 
   return {
-    htmlAttributes: { lang },
     linkTags: [
       {
         rel: 'canonical',
@@ -132,7 +130,6 @@ describe('Successfully passes data to the Metadata component via React context',
     );
     const expected = articleMetadataBuilder(
       'persian',
-      'fa',
       'سرصفحه مقاله',
       'خلاصه مقاله',
       'cwv2xv848j5o',
@@ -151,7 +148,6 @@ describe('Successfully passes data to the Metadata component via React context',
     );
     const expected = articleMetadataBuilder(
       'news',
-      'en-gb',
       'Article Headline',
       'Article summary.',
       'c0000000001o',
@@ -169,10 +165,5 @@ describe('Successfully passes data to the Metadata component via React context',
     );
 
     doesMatch(result, expected);
-  });
-
-  it('should add amp to HTML attributes when platform is set to AMP', () => {
-    const result = MetadataWithContextAsObject('news', articleDataNews, 'amp');
-    expect(result.htmlAttributes.amp).not.toBe(undefined);
   });
 });

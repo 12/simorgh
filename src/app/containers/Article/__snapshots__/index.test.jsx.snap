@@ -11,6 +11,9 @@ exports[`ArticleContainer Component should render Persian article correctly 1`] 
     <PlatformContextProvider
       platform="canonical"
     >
+      <ServiceContextConsumer>
+        [Function]
+      </ServiceContextConsumer>
       <HeaderContainer />
       <MetadataContainer
         metadata={
@@ -158,6 +161,9 @@ exports[`ArticleContainer Component should render correctly 1`] = `
     <PlatformContextProvider
       platform="canonical"
     >
+      <ServiceContextConsumer>
+        [Function]
+      </ServiceContextConsumer>
       <HeaderContainer />
       <MetadataContainer
         metadata={
