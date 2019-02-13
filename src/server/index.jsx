@@ -28,8 +28,7 @@ const logger = nodeLogger(__filename);
 const assets = getAssetsArray();
 
 const publicDirectory = 'build/public';
-const dataFolderToRender =
-  process.env.NODE_ENV === 'production' ? 'data/prod' : 'data/test';
+const dataFolderToRender = `data/${process.env.APP_ENV}`;
 
 const renderArticle = async (url, data) => {
   const sheet = new ServerStyleSheet();

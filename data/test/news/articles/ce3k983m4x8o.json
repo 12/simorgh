@@ -1,0 +1,840 @@
+{
+"content": {
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Climate change: 'Future proofing' forests to protect orangutans"
+},
+"type": "fragment"
+}
+],
+"text": "Climate change: 'Future proofing' forests to protect orangutans"
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+}
+]
+},
+"type": "headline"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"copyrightHolder": "Anne Russon",
+"height": 371,
+"locator": "4a0a/test/be5c64c0-2c76-11e9-bd21-edcad7375ac8.jpg",
+"originCode": "cpsdevpb",
+"width": 660
+},
+"type": "rawImage"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Orangutans need key plants to survive"
+},
+"type": "fragment"
+}
+],
+"text": "Orangutans need key plants to survive"
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+}
+]
+},
+"type": "caption"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "An Orangutan holding onto a branch"
+},
+"type": "fragment"
+}
+],
+"text": "An Orangutan holding onto a branch"
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+}
+]
+},
+"type": "altText"
+}
+]
+},
+"type": "image"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "A study has identified key tree species that are resilient to climate change and support critically endangered apes."
+},
+"type": "fragment"
+}
+],
+"text": "A study has identified key tree species that are resilient to climate change and support critically endangered apes."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Planting them could help future proof rainforests, which are a key habitat for orangutans, according to the "
+},
+"type": "fragment"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "International Union for Conservation of Nature - IUCN"
+},
+"type": "fragment"
+}
+],
+"isExternal": true,
+"locator": "https://www.iucn.org/",
+"text": "International Union for Conservation of Nature - IUCN"
+},
+"type": "urlLink"
+},
+{
+"model": {
+"attributes": [],
+"text": "."
+},
+"type": "fragment"
+}
+],
+"text": "Planting them could help future proof rainforests, which are a key habitat for orangutans, according to the International Union for Conservation of Nature - IUCN."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Researchers surveyed 250 plants in Indonesia's Kutai National Park."
+},
+"type": "fragment"
+}
+],
+"text": "Researchers surveyed 250 plants in Indonesia's Kutai National Park."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Over 1,000 orangutans are thought to inhabit the park, as well as other rare animals such as the Malayan sun bear."
+},
+"type": "fragment"
+}
+],
+"text": "Over 1,000 orangutans are thought to inhabit the park, as well as other rare animals such as the Malayan sun bear."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "\"Selecting which species to plant is a significant contribution to restoring the \nhealth of this ecosystem,\" said study co-author Douglas Sheil."
+},
+"type": "fragment"
+}
+],
+"text": "\"Selecting which species to plant is a significant contribution to restoring the \nhealth of this ecosystem,\" said study co-author Douglas Sheil."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "\"Of course, the reasons why forest cover was lost in the first place must \nalso be addressed for reforestation efforts to succeed.\""
+},
+"type": "fragment"
+}
+],
+"text": "\"Of course, the reasons why forest cover was lost in the first place must \nalso be addressed for reforestation efforts to succeed.\""
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"copyrightHolder": "Alan Lee",
+"height": 351,
+"locator": "3747/test/00c87ba0-2c77-11e9-bd21-edcad7375ac8.jpg",
+"originCode": "cpsdevpb",
+"width": 624
+},
+"type": "rawImage"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "The park’s orangutan population could be as large as 1,000-2,000"
+},
+"type": "fragment"
+}
+],
+"text": "The park’s orangutan population could be as large as 1,000-2,000"
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+}
+]
+},
+"type": "caption"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "An orangutan in front of foliage"
+},
+"type": "fragment"
+}
+],
+"text": "An orangutan in front of foliage"
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+}
+]
+},
+"type": "altText"
+}
+]
+},
+"type": "image"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Kutai National Park is located on the east coast of Borneo Island, in the East Kalimantan province of Indonesia."
+},
+"type": "fragment"
+}
+],
+"text": "Kutai National Park is located on the east coast of Borneo Island, in the East Kalimantan province of Indonesia."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "The forest faces threats from logging, fires and mining, and was once considered a conservation wasteland. "
+},
+"type": "fragment"
+}
+],
+"text": "The forest faces threats from logging, fires and mining, and was once considered a conservation wasteland. "
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Efforts are underway to try to restore the  habitat, which is home to more than a thousand plants, 80 mammals and 300 birds, including what is thought \nto be the largest population of orangutans in the province."
+},
+"type": "fragment"
+}
+],
+"text": "Efforts are underway to try to restore the  habitat, which is home to more than a thousand plants, 80 mammals and 300 birds, including what is thought \nto be the largest population of orangutans in the province."
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"copyrightHolder": "Alan Lee",
+"height": 351,
+"locator": "e51e/test/2bacdc30-2c77-11e9-bd21-edcad7375ac8.jpg",
+"originCode": "cpsdevpb",
+"width": 624
+},
+"type": "rawImage"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "The sun bear is a bear species occurring in tropical forest habitats of Southeast Asia"
+},
+"type": "fragment"
+}
+],
+"text": "The sun bear is a bear species occurring in tropical forest habitats of Southeast Asia"
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+}
+]
+},
+"type": "caption"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Two sun bears in long grass"
+},
+"type": "fragment"
+}
+],
+"text": "Two sun bears in long grass"
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+}
+]
+},
+"type": "altText"
+}
+]
+},
+"type": "image"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Anne Russon of York University, Ontario, said a drought in 2015 caused the deaths of many animals and trees."
+},
+"type": "fragment"
+}
+],
+"text": "Anne Russon of York University, Ontario, said a drought in 2015 caused the deaths of many animals and trees."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Wildlife numbers are recovering slowly, she said, and studies like this one \nstand to contribute to nature conservation \"by offering constructive \nmethods for buffering the effects of climate change\"."
+},
+"type": "fragment"
+}
+],
+"text": "Wildlife numbers are recovering slowly, she said, and studies like this one \nstand to contribute to nature conservation \"by offering constructive \nmethods for buffering the effects of climate change\"."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "The study singled out two tree species for their resilience to fire, which are \nrecommend for planting in buffer zones around fire prone areas: a native palm, the Bendang, and a hardwood tree, the Ulin."
+},
+"type": "fragment"
+}
+],
+"text": "The study singled out two tree species for their resilience to fire, which are \nrecommend for planting in buffer zones around fire prone areas: a native palm, the Bendang, and a hardwood tree, the Ulin."
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"copyrightHolder": "Lita Kabangnga",
+"height": 405,
+"locator": "06f3/test/4d06c350-2c77-11e9-bd21-edcad7375ac8.jpg",
+"originCode": "cpsdevpb",
+"width": 304
+},
+"type": "rawImage"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Ulin tree: Orangutans prefer the tree for nesting"
+},
+"type": "fragment"
+}
+],
+"text": "Ulin tree: Orangutans prefer the tree for nesting"
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+}
+]
+},
+"type": "caption"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Ulin tree"
+},
+"type": "fragment"
+}
+],
+"text": "Ulin tree"
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+}
+]
+},
+"type": "altText"
+}
+]
+},
+"type": "image"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Seven plants that are likely to be climate resilient emerged as key food sources for orangutans. They include "
+},
+"type": "fragment"
+},
+{
+"model": {
+"attributes": [
+"italic"
+],
+"text": "Dracontomelon dao"
+},
+"type": "fragment"
+},
+{
+"model": {
+"attributes": [],
+"text": ", a tropical canopy tree, and "
+},
+"type": "fragment"
+},
+{
+"model": {
+"attributes": [
+"italic"
+],
+"text": "Kleinhovia hospita"
+},
+"type": "fragment"
+},
+{
+"model": {
+"attributes": [],
+"text": ", an evergreen, tropical tree native to Indonesia, Malaysia and other parts of tropical Asia. "
+},
+"type": "fragment"
+}
+],
+"text": "Seven plants that are likely to be climate resilient emerged as key food sources for orangutans. They include Dracontomelon dao, a tropical canopy tree, and Kleinhovia hospita, an evergreen, tropical tree native to Indonesia, Malaysia and other parts of tropical Asia. "
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "The report said these should be planted alongside vines the apes use for \nmoving through the forest and trees they use for nesting, but far away \nfrom areas accessed by people."
+},
+"type": "fragment"
+}
+],
+"text": "The report said these should be planted alongside vines the apes use for \nmoving through the forest and trees they use for nesting, but far away \nfrom areas accessed by people."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "\"It will allow the trees and the habitat that orangutans rely on to survive into the future,\" said co-author, Dr Jamie Carr of the University of Leeds. "
+},
+"type": "fragment"
+}
+],
+"text": "\"It will allow the trees and the habitat that orangutans rely on to survive into the future,\" said co-author, Dr Jamie Carr of the University of Leeds. "
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "\"It's an attempt to future proof the forest.\""
+},
+"type": "fragment"
+}
+],
+"text": "\"It's an attempt to future proof the forest.\""
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "He acknowledged that forest restoration is not a simple task and involves \nmany stakeholders, including the government and the mining companies who are required to carry out reforestation work."
+},
+"type": "fragment"
+}
+],
+"text": "He acknowledged that forest restoration is not a simple task and involves \nmany stakeholders, including the government and the mining companies who are required to carry out reforestation work."
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Orangutans' threatened future"
+},
+"type": "fragment"
+}
+],
+"text": "Orangutans' threatened future"
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+}
+]
+},
+"type": "subheadline"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Orangutans are the world's largest tree-climbing mammal - and Asia's only great ape."
+},
+"type": "fragment"
+}
+],
+"text": "Orangutans are the world's largest tree-climbing mammal - and Asia's only great ape."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "They were once found across South East Asia, but today are confined to two islands, Borneo and Sumatra."
+},
+"type": "fragment"
+}
+],
+"text": "They were once found across South East Asia, but today are confined to two islands, Borneo and Sumatra."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "Their forest habitat is rapidly disappearing, putting their future in jeopardy."
+},
+"type": "fragment"
+}
+],
+"text": "Their forest habitat is rapidly disappearing, putting their future in jeopardy."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "The orangutans in Borneo and Sumatra are regarded as separate species."
+},
+"type": "fragment"
+}
+],
+"text": "The orangutans in Borneo and Sumatra are regarded as separate species."
+},
+"type": "paragraph"
+},
+{
+"model": {
+"blocks": [
+{
+"model": {
+"attributes": [],
+"text": "There are thought to be around 54,000 orangutans in Borneo."
+},
+"type": "fragment"
+}
+],
+"text": "There are thought to be around 54,000 orangutans in Borneo."
+},
+"type": "paragraph"
+}
+]
+},
+"type": "text"
+}
+]
+}
+},
+"metadata": {
+"analyticsLabels": {},
+"blockTypes": [
+"headline",
+"text",
+"paragraph",
+"fragment",
+"image",
+"rawImage",
+"caption",
+"altText",
+"urlLink",
+"subheadline"
+],
+"createdBy": "News",
+"firstPublished": 1549722368813,
+"id": "urn:bbc:ares::article:ce3k983m4x8o",
+"language": "en-gb",
+"lastPublished": 1549722368813,
+"lastUpdated": 1549722829983,
+"locators": {
+"optimoUrn": "urn:bbc:optimo:asset:ce3k983m4x8o"
+},
+"options": {},
+"passport": {
+"home": "http://www.bbc.co.uk/ontologies/passport/home/News",
+"language": "en-gb"
+},
+"tags": {},
+"type": "article",
+"version": "v0.4.16"
+},
+"promo": {
+"headlines": {
+"seoHeadline": "Climate change: 'Future proofing' forests to protect orangutans"
+},
+"id": "urn:bbc:ares::article:ce3k983m4x8o",
+"locators": {
+"optimoUrn": "urn:bbc:optimo:asset:ce3k983m4x8o"
+},
+"summary": "",
+"timestamp": 1549722368813,
+"type": "cps"
+},
+"relatedContent": {
+"groups": [],
+"site": {
+"name": "News",
+"subType": "site",
+"type": "simple",
+"uri": "/news"
+}
+}
+}
