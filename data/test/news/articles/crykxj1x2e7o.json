@@ -1,1040 +1,1144 @@
 {
-"content": {
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Rosalind Franklin: Mars rover named after DNA pioneer"
-},
-"type": "fragment"
-}
-],
-"text": "Rosalind Franklin: Mars rover named after DNA pioneer"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "headline"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"copyrightHolder": "Getty Images/ESA",
-"height": 371,
-"locator": "9aad/test/740e4260-2c78-11e9-bd21-edcad7375ac8.jpg",
-"originCode": "cpsdevpb",
-"width": 660
-},
-"type": "rawImage"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "The Rosalind Franklin rover is due to launch to Mars next year"
-},
-"type": "fragment"
-}
-],
-"text": "The Rosalind Franklin rover is due to launch to Mars next year"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "caption"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Composite of Franklin and rover"
-},
-"type": "fragment"
-}
-],
-"text": "Composite of Franklin and rover"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "altText"
-}
-]
-},
-"type": "image"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "The UK-assembled rover that will be sent to Mars in 2020 will bear the name of DNA pioneer Rosalind Franklin. "
-},
-"type": "fragment"
-}
-],
-"text": "The UK-assembled rover that will be sent to Mars in 2020 will bear the name of DNA pioneer Rosalind Franklin. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "The honour follows a public call for suggestions that drew nearly 36,000 responses from right across Europe. "
-},
-"type": "fragment"
-}
-],
-"text": "The honour follows a public call for suggestions that drew nearly 36,000 responses from right across Europe. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Astronaut Tim Peake unveiled the name at the Airbus factory in Stevenage where the robot is being put together. "
-},
-"type": "fragment"
-}
-],
-"text": "Astronaut Tim Peake unveiled the name at the Airbus factory in Stevenage where the robot is being put together. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "The six-wheeled vehicle will be equipped with instruments and a drill to search for evidence of past or present life on the Red Planet. "
-},
-"type": "fragment"
-}
-],
-"text": "The six-wheeled vehicle will be equipped with instruments and a drill to search for evidence of past or present life on the Red Planet. "
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"copyrightHolder": "Max Alexander / AIRBUS",
-"height": 415,
-"locator": "aef5/test/932f9ea0-2c78-11e9-bd21-edcad7375ac8.jpg",
-"originCode": "cpsdevpb",
-"width": 624
-},
-"type": "rawImage"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "The unveiling of the name was orchestrated by UK astronaut Tim Peake"
-},
-"type": "fragment"
-}
-],
-"text": "The unveiling of the name was orchestrated by UK astronaut Tim Peake"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "caption"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Tim Peake"
-},
-"type": "fragment"
-}
-],
-"text": "Tim Peake"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "altText"
-}
-]
-},
-"type": "image"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Giving the rover a name associated with a molecule fundamental to biology seems therefore to be wholly appropriate. "
-},
-"type": "fragment"
-}
-],
-"text": "Giving the rover a name associated with a molecule fundamental to biology seems therefore to be wholly appropriate. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Rosalind Franklin played an integral role in the discovery of the structure of deoxyribonucleic acid. "
-},
-"type": "fragment"
-}
-],
-"text": "Rosalind Franklin played an integral role in the discovery of the structure of deoxyribonucleic acid. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "It was her X-ray images that allowed James Watson and Francis Crick to decipher its double-helix shape. "
-},
-"type": "fragment"
-}
-],
-"text": "It was her X-ray images that allowed James Watson and Francis Crick to decipher its double-helix shape. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Franklin's early death from ovarian cancer in 1958, aged just 37, meant she never \nreceived the recognition given to her male peers. "
-},
-"type": "fragment"
-}
-],
-"text": "Franklin's early death from ovarian cancer in 1958, aged just 37, meant she never \nreceived the recognition given to her male peers. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "The attachment to the European Space Agency (Esa) rover will now see her name travel beyond Earth. "
-},
-"type": "fragment"
-}
-],
-"text": "The attachment to the European Space Agency (Esa) rover will now see her name travel beyond Earth. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "\"In the last year of Rosalind's life, I remember visiting her in hospital on the day when she was excited by the news of the [Soviet Sputnik satellite] - the very beginning of space exploration,\" Franklin's sister, Jenifer Glynn, said on Thursday. "
-},
-"type": "fragment"
-}
-],
-"text": "\"In the last year of Rosalind's life, I remember visiting her in hospital on the day when she was excited by the news of the [Soviet Sputnik satellite] - the very beginning of space exploration,\" Franklin's sister, Jenifer Glynn, said on Thursday. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "\"She could never have imagined that over 60 years later there would be a rover sent to Mars bearing her name, but somehow that makes this project even more \nspecial.\""
-},
-"type": "fragment"
-}
-],
-"text": "\"She could never have imagined that over 60 years later there would be a rover sent to Mars bearing her name, but somehow that makes this project even more \nspecial.\""
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"copyrightHolder": "Max Alexander/AIRBUS",
-"height": 447,
-"locator": "38fc/test/b0465dd0-2c78-11e9-bd21-edcad7375ac8.jpg",
-"originCode": "cpsdevpb",
-"width": 624
-},
-"type": "rawImage"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Final assembly of the rover is under way at the Airbus factory in Stevenage"
-},
-"type": "fragment"
-}
-],
-"text": "Final assembly of the rover is under way at the Airbus factory in Stevenage"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "caption"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Cleanroom image"
-},
-"type": "fragment"
-}
-],
-"text": "Cleanroom image"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "altText"
-}
-]
-},
-"type": "image"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Who was Rosalind Franklin?"
-},
-"type": "fragment"
-}
-],
-"text": "Who was Rosalind Franklin?"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "subheadline"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "In 1952, Rosalind Franklin was at King's College London investigating the atomic arrangement of DNA, using her skills as an X-ray crystallographer to create images for analysis. "
-},
-"type": "fragment"
-}
-],
-"text": "In 1952, Rosalind Franklin was at King's College London investigating the atomic arrangement of DNA, using her skills as an X-ray crystallographer to create images for analysis. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "One of her team's pictures, known as Photo 51, provided the essential insights for Crick and Watson to build the first three-dimensional model of the two-stranded macromolecule. "
-},
-"type": "fragment"
-}
-],
-"text": "One of her team's pictures, known as Photo 51, provided the essential insights for Crick and Watson to build the first three-dimensional model of the two-stranded macromolecule. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "It was one of the supreme achievements of 20th Century science, enabling researchers to finally understand how DNA stored, copied and transmitted the genetic \"code of life\". "
-},
-"type": "fragment"
-}
-],
-"text": "It was one of the supreme achievements of 20th Century science, enabling researchers to finally understand how DNA stored, copied and transmitted the genetic \"code of life\". "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Crick, Watson, and King's colleague Maurice Wilkins, received the 1962 Nobel Prize for the breakthrough. "
-},
-"type": "fragment"
-}
-],
-"text": "Crick, Watson, and King's colleague Maurice Wilkins, received the 1962 Nobel Prize for the breakthrough. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Franklin's untimely death meant she could not be considered for the award (Nobels are not awarded posthumously). However, many argue that her contribution has never really been given the attention it deserves, and has even \nbeen underplayed."
-},
-"type": "fragment"
-}
-],
-"text": "Franklin's untimely death meant she could not be considered for the award (Nobels are not awarded posthumously). However, many argue that her contribution has never really been given the attention it deserves, and has even \nbeen underplayed."
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"copyrightHolder": "SPL/BBC",
-"height": 351,
-"locator": "0443/test/c9b21660-2c78-11e9-bd21-edcad7375ac8.jpg",
-"originCode": "cpsdevpb",
-"width": 624
-},
-"type": "rawImage"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Photo 51 was a eureka moment for Crick and Watson"
-},
-"type": "fragment"
-}
-],
-"text": "Photo 51 was a eureka moment for Crick and Watson"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "caption"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Photo 51"
-},
-"type": "fragment"
-}
-],
-"text": "Photo 51"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "altText"
-}
-]
-},
-"type": "image"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "How was the rover name selected?"
-},
-"type": "fragment"
-}
-],
-"text": "How was the rover name selected?"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "subheadline"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Up until now, the rover has simply been known by its Esa project name - ExoMars. "
-},
-"type": "fragment"
-}
-],
-"text": "Up until now, the rover has simply been known by its Esa project name - ExoMars. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "In the UK, many people have also become familiar with the names given to the prototype robots that Airbus built to trial the vehicle's technology. "
-},
-"type": "fragment"
-}
-],
-"text": "In the UK, many people have also become familiar with the names given to the prototype robots that Airbus built to trial the vehicle's technology. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "These have been names like Bridget, Bruno and Bryan. The \"B\" letter is a play on the word \"breadboard\" - the term describing the bald plate engineers use to design new electronic circuitry. "
-},
-"type": "fragment"
-}
-],
-"text": "These have been names like Bridget, Bruno and Bryan. The \"B\" letter is a play on the word \"breadboard\" - the term describing the bald plate engineers use to design new electronic circuitry. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "But it has become common practice now for space missions to have a ceremonial name. "
-},
-"type": "fragment"
-}
-],
-"text": "But it has become common practice now for space missions to have a ceremonial name. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Sometimes these are just glorified acronyms that summarise the mission goals, but often they reference a historical figure who made a significant contribution in a relevant field of science. "
-},
-"type": "fragment"
-}
-],
-"text": "Sometimes these are just glorified acronyms that summarise the mission goals, but often they reference a historical figure who made a significant contribution in a relevant field of science. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "For recent European Space Agency projects, Italian scientists have been honoured, including Giuseppe \"Bepi\" Colombo (Mercury mission) and Giovanni Schiaparelli (a previous Mars lander). "
-},
-"type": "fragment"
-}
-],
-"text": "For recent European Space Agency projects, Italian scientists have been honoured, including Giuseppe \"Bepi\" Colombo (Mercury mission) and Giovanni Schiaparelli (a previous Mars lander). "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Rosalind Franklin was chosen by a UK-led panel who sifted through 35,844 suggestions."
-},
-"type": "fragment"
-}
-],
-"text": "Rosalind Franklin was chosen by a UK-led panel who sifted through 35,844 suggestions."
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "\"We had the usual clutch of acronyms, deities and inspirational words, but when we got down to the short shortlist - it was the obvious choice. It ticks all the boxes,\" Dr Sue Horne, the head space exploration at the UK Space Agency, told BBC News."
-},
-"type": "fragment"
-}
-],
-"text": "\"We had the usual clutch of acronyms, deities and inspirational words, but when we got down to the short shortlist - it was the obvious choice. It ticks all the boxes,\" Dr Sue Horne, the head space exploration at the UK Space Agency, told BBC News."
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Britain essentially got the naming rights because it has put most money into the rover. "
-},
-"type": "fragment"
-}
-],
-"text": "Britain essentially got the naming rights because it has put most money into the rover. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "\"Rover McRoverFace\" was suggested but the "
-},
-"type": "fragment"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "UK Space Agency made it clear at the outset"
-},
-"type": "fragment"
-}
-],
-"isExternal": false,
-"locator": "https://www.bbc.co.uk/news/science-environment-44889596",
-"text": "UK Space Agency made it clear at the outset"
-},
-"type": "urlLink"
-},
-{
-"model": {
-"attributes": [],
-"text": " that there would be no repeat of the furore that accompanied "
-},
-"type": "fragment"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "the naming of Britain's new polar ship"
-},
-"type": "fragment"
-}
-],
-"isExternal": false,
-"locator": "https://www.bbc.co.uk/news/science-environment-44828136",
-"text": "the naming of Britain's new polar ship"
-},
-"type": "urlLink"
-},
-{
-"model": {
-"attributes": [],
-"text": "."
-},
-"type": "fragment"
-}
-],
-"text": "\"Rover McRoverFace\" was suggested but the UK Space Agency made it clear at the outset that there would be no repeat of the furore that accompanied the naming of Britain's new polar ship."
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "At what stage is the rover project?"
-},
-"type": "fragment"
-}
-],
-"text": "At what stage is the rover project?"
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-},
-"type": "subheadline"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "The rocket that will send the Franklin rover to Mars is booked to launch in July/August 2020. The various components needed for the mission are gradually coming together under the direction of Esa and its partner on the venture - the Russian space agency, Roscosmos. "
-},
-"type": "fragment"
-}
-],
-"text": "The rocket that will send the Franklin rover to Mars is booked to launch in July/August 2020. The various components needed for the mission are gradually coming together under the direction of Esa and its partner on the venture - the Russian space agency, Roscosmos. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "British engineers are on target to deliver a finished robot at the end of July. This will go first to an Airbus test centre in Toulouse, France. From there, it will head east, to Cannes. "
-},
-"type": "fragment"
-}
-],
-"text": "British engineers are on target to deliver a finished robot at the end of July. This will go first to an Airbus test centre in Toulouse, France. From there, it will head east, to Cannes. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "On the Côte d'Azur, the Franklin rover will be integrated with its German \"cruise\" capsule, which will carry it to the vicinity of the Red Planet, and the Russian landing mechanism, which will have the all-important job of putting the rover down safely on the surface of Mars in March 2021."
-},
-"type": "fragment"
-}
-],
-"text": "On the Côte d'Azur, the Franklin rover will be integrated with its German \"cruise\" capsule, which will carry it to the vicinity of the Red Planet, and the Russian landing mechanism, which will have the all-important job of putting the rover down safely on the surface of Mars in March 2021."
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "From Cannes, these elements go to the Baikonur Cosmodrome to be mated with the launch rocket. "
-},
-"type": "fragment"
-}
-],
-"text": "From Cannes, these elements go to the Baikonur Cosmodrome to be mated with the launch rocket. "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "The schedule is tight, conceded Prof Jan Wörner, the director-general of Esa: \"It's a challenge but we're working really hard to make the launch date.\" "
-},
-"type": "fragment"
-}
-],
-"text": "The schedule is tight, conceded Prof Jan Wörner, the director-general of Esa: \"It's a challenge but we're working really hard to make the launch date.\" "
-},
-"type": "paragraph"
-},
-{
-"model": {
-"blocks": [
-{
-"model": {
-"attributes": [],
-"text": "Airbus has built a special \"cleanroom\" to assemble the rover. The Franklin vehicle's parts are being brought to Stevenage from across Esa member states and Canada. The North Americans are making the locomotion system - the wheels."
-},
-"type": "fragment"
-}
-],
-"text": "Airbus has built a special \"cleanroom\" to assemble the rover. The Franklin vehicle's parts are being brought to Stevenage from across Esa member states and Canada. The North Americans are making the locomotion system - the wheels."
-},
-"type": "paragraph"
-}
-]
-},
-"type": "text"
-}
-]
-}
-},
-"metadata": {
-"analyticsLabels": {},
-"blockTypes": [
-"headline",
-"text",
-"paragraph",
-"fragment",
-"image",
-"rawImage",
-"caption",
-"altText",
-"subheadline",
-"urlLink"
-],
-"createdBy": "News",
-"firstPublished": 1549723118760,
-"id": "urn:bbc:ares::article:crykxj1x2e7o",
-"language": "en-gb",
-"lastPublished": 1549723118760,
-"lastUpdated": 1549723866499,
-"locators": {
-"optimoUrn": "urn:bbc:optimo:asset:crykxj1x2e7o"
-},
-"options": {},
-"passport": {
-"home": "http://www.bbc.co.uk/ontologies/passport/home/News",
-"language": "en-gb"
-},
-"tags": {},
-"type": "article",
-"version": "v0.4.16"
-},
-"promo": {
-"headlines": {
-"seoHeadline": "Rosalind Franklin: Mars rover named after DNA pioneer"
-},
-"id": "urn:bbc:ares::article:crykxj1x2e7o",
-"locators": {
-"optimoUrn": "urn:bbc:optimo:asset:crykxj1x2e7o"
-},
-"summary": "",
-"timestamp": 1549723118760,
-"type": "cps"
-},
-"relatedContent": {
-"groups": [],
-"site": {
-"name": "News",
-"subType": "site",
-"type": "simple",
-"uri": "/news"
-}
-}
+   "content":{
+      "model":{
+         "blocks":[
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "attributes":[
+
+                                             ],
+                                             "text":"Rosalind Franklin: Mars rover named after DNA pioneer"
+                                          },
+                                          "type":"fragment"
+                                       }
+                                    ],
+                                    "text":"Rosalind Franklin: Mars rover named after DNA pioneer"
+                                 },
+                                 "type":"paragraph"
+                              }
+                           ]
+                        },
+                        "type":"text"
+                     }
+                  ]
+               },
+               "type":"headline"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "copyrightHolder":"Getty Images/ESA",
+                           "height":371,
+                           "locator":"9aad/test/740e4260-2c78-11e9-bd21-edcad7375ac8.jpg",
+                           "originCode":"cpsdevpb",
+                           "width":660
+                        },
+                        "type":"rawImage"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "blocks":[
+                                                {
+                                                   "model":{
+                                                      "attributes":[
+
+                                                      ],
+                                                      "text":"The Rosalind Franklin rover is due to launch to Mars next year"
+                                                   },
+                                                   "type":"fragment"
+                                                }
+                                             ],
+                                             "text":"The Rosalind Franklin rover is due to launch to Mars next year"
+                                          },
+                                          "type":"paragraph"
+                                       }
+                                    ]
+                                 },
+                                 "type":"text"
+                              }
+                           ]
+                        },
+                        "type":"caption"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "blocks":[
+                                                {
+                                                   "model":{
+                                                      "attributes":[
+
+                                                      ],
+                                                      "text":"Composite of Franklin and rover"
+                                                   },
+                                                   "type":"fragment"
+                                                }
+                                             ],
+                                             "text":"Composite of Franklin and rover"
+                                          },
+                                          "type":"paragraph"
+                                       }
+                                    ]
+                                 },
+                                 "type":"text"
+                              }
+                           ]
+                        },
+                        "type":"altText"
+                     }
+                  ]
+               },
+               "type":"image"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"The UK-assembled rover that will be sent to Mars in 2020 will bear the name of DNA pioneer Rosalind Franklin. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"The UK-assembled rover that will be sent to Mars in 2020 will bear the name of DNA pioneer Rosalind Franklin. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"The honour follows a public call for suggestions that drew nearly 36,000 responses from right across Europe. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"The honour follows a public call for suggestions that drew nearly 36,000 responses from right across Europe. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"Astronaut Tim Peake unveiled the name at the Airbus factory in Stevenage where the robot is being put together. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"Astronaut Tim Peake unveiled the name at the Airbus factory in Stevenage where the robot is being put together. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"The six-wheeled vehicle will be equipped with instruments and a drill to search for evidence of past or present life on the Red Planet. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"The six-wheeled vehicle will be equipped with instruments and a drill to search for evidence of past or present life on the Red Planet. "
+                        },
+                        "type":"paragraph"
+                     }
+                  ]
+               },
+               "type":"text"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "copyrightHolder":"Max Alexander / AIRBUS",
+                           "height":415,
+                           "locator":"aef5/test/932f9ea0-2c78-11e9-bd21-edcad7375ac8.jpg",
+                           "originCode":"cpsdevpb",
+                           "width":624
+                        },
+                        "type":"rawImage"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "blocks":[
+                                                {
+                                                   "model":{
+                                                      "attributes":[
+
+                                                      ],
+                                                      "text":"The unveiling of the name was orchestrated by UK astronaut Tim Peake"
+                                                   },
+                                                   "type":"fragment"
+                                                }
+                                             ],
+                                             "text":"The unveiling of the name was orchestrated by UK astronaut Tim Peake"
+                                          },
+                                          "type":"paragraph"
+                                       }
+                                    ]
+                                 },
+                                 "type":"text"
+                              }
+                           ]
+                        },
+                        "type":"caption"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "blocks":[
+                                                {
+                                                   "model":{
+                                                      "attributes":[
+
+                                                      ],
+                                                      "text":"Tim Peake"
+                                                   },
+                                                   "type":"fragment"
+                                                }
+                                             ],
+                                             "text":"Tim Peake"
+                                          },
+                                          "type":"paragraph"
+                                       }
+                                    ]
+                                 },
+                                 "type":"text"
+                              }
+                           ]
+                        },
+                        "type":"altText"
+                     }
+                  ]
+               },
+               "type":"image"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"Giving the rover a name associated with a molecule fundamental to biology seems therefore to be wholly appropriate. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"Giving the rover a name associated with a molecule fundamental to biology seems therefore to be wholly appropriate. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"Rosalind Franklin played an integral role in the discovery of the structure of deoxyribonucleic acid. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"Rosalind Franklin played an integral role in the discovery of the structure of deoxyribonucleic acid. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"It was her X-ray images that allowed James Watson and Francis Crick to decipher its double-helix shape. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"It was her X-ray images that allowed James Watson and Francis Crick to decipher its double-helix shape. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"Franklin's early death from ovarian cancer in 1958, aged just 37, meant she never \nreceived the recognition given to her male peers. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"Franklin's early death from ovarian cancer in 1958, aged just 37, meant she never \nreceived the recognition given to her male peers. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"The attachment to the European Space Agency (Esa) rover will now see her name travel beyond Earth. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"The attachment to the European Space Agency (Esa) rover will now see her name travel beyond Earth. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"\"In the last year of Rosalind's life, I remember visiting her in hospital on the day when she was excited by the news of the [Soviet Sputnik satellite] - the very beginning of space exploration,\" Franklin's sister, Jenifer Glynn, said on Thursday. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"\"In the last year of Rosalind's life, I remember visiting her in hospital on the day when she was excited by the news of the [Soviet Sputnik satellite] - the very beginning of space exploration,\" Franklin's sister, Jenifer Glynn, said on Thursday. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"\"She could never have imagined that over 60 years later there would be a rover sent to Mars bearing her name, but somehow that makes this project even more \nspecial.\""
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"\"She could never have imagined that over 60 years later there would be a rover sent to Mars bearing her name, but somehow that makes this project even more \nspecial.\""
+                        },
+                        "type":"paragraph"
+                     }
+                  ]
+               },
+               "type":"text"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "copyrightHolder":"Max Alexander/AIRBUS",
+                           "height":447,
+                           "locator":"38fc/test/b0465dd0-2c78-11e9-bd21-edcad7375ac8.jpg",
+                           "originCode":"cpsdevpb",
+                           "width":624
+                        },
+                        "type":"rawImage"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "blocks":[
+                                                {
+                                                   "model":{
+                                                      "attributes":[
+
+                                                      ],
+                                                      "text":"Final assembly of the rover is under way at the Airbus factory in Stevenage"
+                                                   },
+                                                   "type":"fragment"
+                                                }
+                                             ],
+                                             "text":"Final assembly of the rover is under way at the Airbus factory in Stevenage"
+                                          },
+                                          "type":"paragraph"
+                                       }
+                                    ]
+                                 },
+                                 "type":"text"
+                              }
+                           ]
+                        },
+                        "type":"caption"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "blocks":[
+                                                {
+                                                   "model":{
+                                                      "attributes":[
+
+                                                      ],
+                                                      "text":"Cleanroom image"
+                                                   },
+                                                   "type":"fragment"
+                                                }
+                                             ],
+                                             "text":"Cleanroom image"
+                                          },
+                                          "type":"paragraph"
+                                       }
+                                    ]
+                                 },
+                                 "type":"text"
+                              }
+                           ]
+                        },
+                        "type":"altText"
+                     }
+                  ]
+               },
+               "type":"image"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "attributes":[
+
+                                             ],
+                                             "text":"Who was Rosalind Franklin?"
+                                          },
+                                          "type":"fragment"
+                                       }
+                                    ],
+                                    "text":"Who was Rosalind Franklin?"
+                                 },
+                                 "type":"paragraph"
+                              }
+                           ]
+                        },
+                        "type":"text"
+                     }
+                  ]
+               },
+               "type":"subheadline"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"In 1952, Rosalind Franklin was at King's College London investigating the atomic arrangement of DNA, using her skills as an X-ray crystallographer to create images for analysis. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"In 1952, Rosalind Franklin was at King's College London investigating the atomic arrangement of DNA, using her skills as an X-ray crystallographer to create images for analysis. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"One of her team's pictures, known as Photo 51, provided the essential insights for Crick and Watson to build the first three-dimensional model of the two-stranded macromolecule. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"One of her team's pictures, known as Photo 51, provided the essential insights for Crick and Watson to build the first three-dimensional model of the two-stranded macromolecule. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"It was one of the supreme achievements of 20th Century science, enabling researchers to finally understand how DNA stored, copied and transmitted the genetic \"code of life\". "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"It was one of the supreme achievements of 20th Century science, enabling researchers to finally understand how DNA stored, copied and transmitted the genetic \"code of life\". "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"Crick, Watson, and King's colleague Maurice Wilkins, received the 1962 Nobel Prize for the breakthrough. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"Crick, Watson, and King's colleague Maurice Wilkins, received the 1962 Nobel Prize for the breakthrough. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"Franklin's untimely death meant she could not be considered for the award (Nobels are not awarded posthumously). However, many argue that her contribution has never really been given the attention it deserves, and has even \nbeen underplayed."
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"Franklin's untimely death meant she could not be considered for the award (Nobels are not awarded posthumously). However, many argue that her contribution has never really been given the attention it deserves, and has even \nbeen underplayed."
+                        },
+                        "type":"paragraph"
+                     }
+                  ]
+               },
+               "type":"text"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "copyrightHolder":"SPL/BBC",
+                           "height":351,
+                           "locator":"0443/test/c9b21660-2c78-11e9-bd21-edcad7375ac8.jpg",
+                           "originCode":"cpsdevpb",
+                           "width":624
+                        },
+                        "type":"rawImage"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "blocks":[
+                                                {
+                                                   "model":{
+                                                      "attributes":[
+
+                                                      ],
+                                                      "text":"Photo 51 was a eureka moment for Crick and Watson"
+                                                   },
+                                                   "type":"fragment"
+                                                }
+                                             ],
+                                             "text":"Photo 51 was a eureka moment for Crick and Watson"
+                                          },
+                                          "type":"paragraph"
+                                       }
+                                    ]
+                                 },
+                                 "type":"text"
+                              }
+                           ]
+                        },
+                        "type":"caption"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "blocks":[
+                                                {
+                                                   "model":{
+                                                      "attributes":[
+
+                                                      ],
+                                                      "text":"Photo 51"
+                                                   },
+                                                   "type":"fragment"
+                                                }
+                                             ],
+                                             "text":"Photo 51"
+                                          },
+                                          "type":"paragraph"
+                                       }
+                                    ]
+                                 },
+                                 "type":"text"
+                              }
+                           ]
+                        },
+                        "type":"altText"
+                     }
+                  ]
+               },
+               "type":"image"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "attributes":[
+
+                                             ],
+                                             "text":"How was the rover name selected?"
+                                          },
+                                          "type":"fragment"
+                                       }
+                                    ],
+                                    "text":"How was the rover name selected?"
+                                 },
+                                 "type":"paragraph"
+                              }
+                           ]
+                        },
+                        "type":"text"
+                     }
+                  ]
+               },
+               "type":"subheadline"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"Up until now, the rover has simply been known by its Esa project name - ExoMars. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"Up until now, the rover has simply been known by its Esa project name - ExoMars. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"In the UK, many people have also become familiar with the names given to the prototype robots that Airbus built to trial the vehicle's technology. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"In the UK, many people have also become familiar with the names given to the prototype robots that Airbus built to trial the vehicle's technology. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"These have been names like Bridget, Bruno and Bryan. The \"B\" letter is a play on the word \"breadboard\" - the term describing the bald plate engineers use to design new electronic circuitry. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"These have been names like Bridget, Bruno and Bryan. The \"B\" letter is a play on the word \"breadboard\" - the term describing the bald plate engineers use to design new electronic circuitry. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"But it has become common practice now for space missions to have a ceremonial name. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"But it has become common practice now for space missions to have a ceremonial name. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"Sometimes these are just glorified acronyms that summarise the mission goals, but often they reference a historical figure who made a significant contribution in a relevant field of science. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"Sometimes these are just glorified acronyms that summarise the mission goals, but often they reference a historical figure who made a significant contribution in a relevant field of science. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"For recent European Space Agency projects, Italian scientists have been honoured, including Giuseppe \"Bepi\" Colombo (Mercury mission) and Giovanni Schiaparelli (a previous Mars lander). "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"For recent European Space Agency projects, Italian scientists have been honoured, including Giuseppe \"Bepi\" Colombo (Mercury mission) and Giovanni Schiaparelli (a previous Mars lander). "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"Rosalind Franklin was chosen by a UK-led panel who sifted through 35,844 suggestions."
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"Rosalind Franklin was chosen by a UK-led panel who sifted through 35,844 suggestions."
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"\"We had the usual clutch of acronyms, deities and inspirational words, but when we got down to the short shortlist - it was the obvious choice. It ticks all the boxes,\" Dr Sue Horne, the head space exploration at the UK Space Agency, told BBC News."
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"\"We had the usual clutch of acronyms, deities and inspirational words, but when we got down to the short shortlist - it was the obvious choice. It ticks all the boxes,\" Dr Sue Horne, the head space exploration at the UK Space Agency, told BBC News."
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"Britain essentially got the naming rights because it has put most money into the rover. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"Britain essentially got the naming rights because it has put most money into the rover. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"\"Rover McRoverFace\" was suggested but the "
+                                 },
+                                 "type":"fragment"
+                              },
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "attributes":[
+
+                                             ],
+                                             "text":"UK Space Agency made it clear at the outset"
+                                          },
+                                          "type":"fragment"
+                                       }
+                                    ],
+                                    "isExternal":false,
+                                    "locator":"https://www.bbc.co.uk/news/science-environment-44889596",
+                                    "text":"UK Space Agency made it clear at the outset"
+                                 },
+                                 "type":"urlLink"
+                              },
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":" that there would be no repeat of the furore that accompanied "
+                                 },
+                                 "type":"fragment"
+                              },
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "attributes":[
+
+                                             ],
+                                             "text":"the naming of Britain's new polar ship"
+                                          },
+                                          "type":"fragment"
+                                       }
+                                    ],
+                                    "isExternal":false,
+                                    "locator":"https://www.bbc.co.uk/news/science-environment-44828136",
+                                    "text":"the naming of Britain's new polar ship"
+                                 },
+                                 "type":"urlLink"
+                              },
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"."
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"\"Rover McRoverFace\" was suggested but the UK Space Agency made it clear at the outset that there would be no repeat of the furore that accompanied the naming of Britain's new polar ship."
+                        },
+                        "type":"paragraph"
+                     }
+                  ]
+               },
+               "type":"text"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "blocks":[
+                                       {
+                                          "model":{
+                                             "attributes":[
+
+                                             ],
+                                             "text":"At what stage is the rover project?"
+                                          },
+                                          "type":"fragment"
+                                       }
+                                    ],
+                                    "text":"At what stage is the rover project?"
+                                 },
+                                 "type":"paragraph"
+                              }
+                           ]
+                        },
+                        "type":"text"
+                     }
+                  ]
+               },
+               "type":"subheadline"
+            },
+            {
+               "model":{
+                  "blocks":[
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"The rocket that will send the Franklin rover to Mars is booked to launch in July/August 2020. The various components needed for the mission are gradually coming together under the direction of Esa and its partner on the venture - the Russian space agency, Roscosmos. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"The rocket that will send the Franklin rover to Mars is booked to launch in July/August 2020. The various components needed for the mission are gradually coming together under the direction of Esa and its partner on the venture - the Russian space agency, Roscosmos. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"British engineers are on target to deliver a finished robot at the end of July. This will go first to an Airbus test centre in Toulouse, France. From there, it will head east, to Cannes. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"British engineers are on target to deliver a finished robot at the end of July. This will go first to an Airbus test centre in Toulouse, France. From there, it will head east, to Cannes. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"On the Côte d'Azur, the Franklin rover will be integrated with its German \"cruise\" capsule, which will carry it to the vicinity of the Red Planet, and the Russian landing mechanism, which will have the all-important job of putting the rover down safely on the surface of Mars in March 2021."
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"On the Côte d'Azur, the Franklin rover will be integrated with its German \"cruise\" capsule, which will carry it to the vicinity of the Red Planet, and the Russian landing mechanism, which will have the all-important job of putting the rover down safely on the surface of Mars in March 2021."
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"From Cannes, these elements go to the Baikonur Cosmodrome to be mated with the launch rocket. "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"From Cannes, these elements go to the Baikonur Cosmodrome to be mated with the launch rocket. "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"The schedule is tight, conceded Prof Jan Wörner, the director-general of Esa: \"It's a challenge but we're working really hard to make the launch date.\" "
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"The schedule is tight, conceded Prof Jan Wörner, the director-general of Esa: \"It's a challenge but we're working really hard to make the launch date.\" "
+                        },
+                        "type":"paragraph"
+                     },
+                     {
+                        "model":{
+                           "blocks":[
+                              {
+                                 "model":{
+                                    "attributes":[
+
+                                    ],
+                                    "text":"Airbus has built a special \"cleanroom\" to assemble the rover. The Franklin vehicle's parts are being brought to Stevenage from across Esa member states and Canada. The North Americans are making the locomotion system - the wheels."
+                                 },
+                                 "type":"fragment"
+                              }
+                           ],
+                           "text":"Airbus has built a special \"cleanroom\" to assemble the rover. The Franklin vehicle's parts are being brought to Stevenage from across Esa member states and Canada. The North Americans are making the locomotion system - the wheels."
+                        },
+                        "type":"paragraph"
+                     }
+                  ]
+               },
+               "type":"text"
+            }
+         ]
+      }
+   },
+   "metadata":{
+      "analyticsLabels":{
+
+      },
+      "blockTypes":[
+         "headline",
+         "text",
+         "paragraph",
+         "fragment",
+         "image",
+         "rawImage",
+         "caption",
+         "altText",
+         "subheadline",
+         "urlLink"
+      ],
+      "createdBy":"News",
+      "firstPublished":1549723118760,
+      "id":"urn:bbc:ares::article:crykxj1x2e7o",
+      "language":"en-gb",
+      "lastPublished":1549723118760,
+      "lastUpdated":1549723866499,
+      "locators":{
+         "optimoUrn":"urn:bbc:optimo:asset:crykxj1x2e7o"
+      },
+      "options":{
+
+      },
+      "passport":{
+         "home":"http://www.bbc.co.uk/ontologies/passport/home/News",
+         "language":"en-gb"
+      },
+      "tags":{
+
+      },
+      "type":"article",
+      "version":"v0.4.16"
+   },
+   "promo":{
+      "headlines":{
+         "seoHeadline":"Rosalind Franklin: Mars rover named after DNA pioneer"
+      },
+      "id":"urn:bbc:ares::article:crykxj1x2e7o",
+      "locators":{
+         "optimoUrn":"urn:bbc:optimo:asset:crykxj1x2e7o"
+      },
+      "summary":"",
+      "timestamp":1549723118760,
+      "type":"cps"
+   },
+   "relatedContent":{
+      "groups":[
+
+      ],
+      "site":{
+         "name":"News",
+         "subType":"site",
+         "type":"simple",
+         "uri":"/news"
+      }
+   }
 }
