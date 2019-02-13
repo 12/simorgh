@@ -42,10 +42,10 @@ describe('asyncValidateDir helper', () => {
     await expectMethodToBeCalledTimes(30, fileToValidateSpy);
   });
 
-  it('should call fileToValidate for only the files in /data/prod/news', async () => {
+  it('should call fileToValidate for only the files in /data/test/news', async () => {
     fileToValidateSpy = jest.spyOn(readScenario, 'fileToValidate');
 
-    await expectMethodToBeCalledTimes(2, fileToValidateSpy, './data/prod/news');
+    await expectMethodToBeCalledTimes(2, fileToValidateSpy, './data/test/news');
   });
 
   it('should return a promise', () => {
