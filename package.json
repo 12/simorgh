@@ -194,7 +194,8 @@
     "requires": [
       "td-agent",
       "cloudteam-td-agent-setup",
-      "cloud-httpd24-ssl-services-devs-staff"
+      "cloud-httpd24-ssl-services-devs-staff",
+      "cosmos-ca-chains"
     ]
   }
 }
