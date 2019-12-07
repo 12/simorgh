@@ -100,7 +100,7 @@
     "brotli-webpack-plugin": "^1.0.0",
     "compression": "^1.7.3",
     "compression-webpack-plugin": "^2.0.0",
-    "copy-webpack-plugin": "^4.6.0",
+    "copy-webpack-plugin": "^5.0.5",
     "core-js": "^2.6.0",
     "dotenv": "^6.2.0",
     "es6-promise": "^4.2.5",
